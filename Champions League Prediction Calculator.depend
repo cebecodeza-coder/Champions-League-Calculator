@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1760310566 source:c:\users\30103487\documents\champions league prediction calculator\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<limits>
+	<cmath>
+	<fstream>
+
